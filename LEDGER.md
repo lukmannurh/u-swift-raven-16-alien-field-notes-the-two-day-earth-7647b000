@@ -77,3 +77,11 @@ Built and locally verified. NOT committed, pushed, bundled, or submitted — par
   - Run 2: `MAKEFUN_OUTPUT_DIR=/tmp/alien-rev2 node main.ts` → sha256 `047895c4f6145914c8f9d1a0ee975b02c6de1079e03435e3e26bc0263f6656bf`
   - **Byte-identical across runs: YES** (`cmp` clean). **Matches LEDGER's recorded sha256: YES** — output bytes unchanged by the revision.
   - Only stderr: the same harmless `MODULE_TYPELESS_PACKAGE_JSON` warning as before.
+
+## Submission
+
+- Submission: 01a215eb-d97d-728a-aebd-b4a3af465c1c
+- Commit: 894d9724e6e6ba815cfc684886c3d6babc2d3d4e
+- Repo: https://github.com/lukmannurh/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000
+- Claim code: AF-R7H54-9NE0M-VK5Y7-MEWM2
+- Submitted: 2026-11-26T03:35:25.701Z (parent pipeline)
